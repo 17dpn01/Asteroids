@@ -1,1 +1,2 @@
-![alt text](https://raw.githubusercontent.com/17dpn01/Asteroids/master/files/instructions.png)
+[[https://github.com/17dpn01/Asteroids/blob/master/files/instructions.png|alt=instructions]]
+
