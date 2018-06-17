@@ -1,3 +1,3 @@
-![picture](files/instructions.png)
+![alternativetext](files/intructions.png)
 
 
