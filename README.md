@@ -1,3 +1,3 @@
-![alternativetext](files/intructions.png)
+![alternativetext](files/Intructions.png)
 
 
